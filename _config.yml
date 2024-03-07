@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lucie Giorgi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am 2-year Ph.D. candidate at the Aix-Marseille School of Economics (Aix-Marseille University)."
+  bio              : "I am 2-year Ph.D. candidate at the Aix-Marseille School of Economics (AMSE)."
   location         : "Marseille"
   email            : 
   links:
@@ -118,7 +118,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://twitter.com/Lucie_Giorgi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
